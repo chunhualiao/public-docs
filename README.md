@@ -1,2 +1,2 @@
 # pubdocs
-papers and slides
+papers, slides, posters, etc.
