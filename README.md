@@ -63,7 +63,7 @@ papers, slides, posters, etc.
 * ANANTA TIWARI, JEFFREY K. HOLLINGSWORTH, CHUN CHEN, MARY HALL, CHUNHUA LIAO, DANIEL J. QUINLAN, JACQUELINE CHAME, Auto-tuning Full Applications: A Case Study, CCGSC (Clusters, Clouds, and Grids for Scientific Computing), 2011
 
 2010
-* Chunhua Liao, Daniel J. Quinlan, Jeremiah J. Willcock and Thomas Panas, Semantic-Aware Automatic Parallelization of Modern Applications Using High-Level Abstractions, Journal of Parallel Programming,  Volume 38, Numbers 5-6, 361-378, August 23. 2010 LLNL-JRNL-421803 [https://github.com/chunhualiao/pubdocs/blob/master/Semantic-Aware_Automatic_Parallelization_of_Modern.pdf](pdf)
+* Chunhua Liao, Daniel J. Quinlan, Jeremiah J. Willcock and Thomas Panas, Semantic-Aware Automatic Parallelization of Modern Applications Using High-Level Abstractions, Journal of Parallel Programming,  Volume 38, Numbers 5-6, 361-378, August 23. 2010 LLNL-JRNL-421803 [pdf](https://github.com/chunhualiao/pubdocs/blob/master/Semantic-Aware_Automatic_Parallelization_of_Modern.pdf)
 * Chunhua Liao, Daniel J. Quinlan , Thomas Panas and Bronis de Supinski, A ROSE-based OpenMP 3.0 Research Compiler Supporting Multiple Runtime Libraries, the 6th International Workshop on OpenMP (IWOMP), June 14-16, 2010, Tsukuba, Japan. LLNL-CONF-422873
 
 2009
