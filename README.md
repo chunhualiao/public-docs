@@ -3,7 +3,7 @@ papers, slides, posters, etc.
 
 
 2020
-* Gleison Mendonca, Chunhua Liao and Fernando Magno, AutoParBench: A Unified Test Framework for OpenMP-based Parallelizers, International Conference on Supercomputing, June 29-July 2 2020, Barcelona, Spain, LLNL-CONF-795158
+* Gleison Mendonca, Chunhua Liao and Fernando Magno, AutoParBench: A Unified Test Framework for OpenMP-based Parallelizers, International Conference on Supercomputing, June 29-July 2 2020, Barcelona, Spain, LLNL-CONF-795158, [pdf](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/AutoParBench-ICS2020-final.pdf)
 * Peter Pirkelbauer, Pei-Hung Li, Tristan Vanderbruggen , Chunhua Liao, XPlacer: Automatic Analysis of CPU/GPU Access Patterns, 34th IEEE International Parallel & Distributed Processing Symposium, May 18-22, 2020, LLNL-CONF-795057
 * Anjia Wang, Alok Mishra, Chunhua Liao, Yonghong Yan, and Barbara Chapman, FreeCompilerCamp.org: Training for OpenMP Compiler Development from Cloud, Volume 11, Issue 1, pp. 53 - 60, Journal of Computational Science Education, Jan. 2020 http://www.jocse.org/articles/11/1/9/
 
