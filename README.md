@@ -3,7 +3,7 @@ papers, slides, posters, etc.
 
 
 2020
-* Gleison Mendonca, Chunhua Liao and Fernando Magno, AutoParBench: A Unified Test Framework for OpenMP-based Parallelizers, International Conference on Supercomputing, June 29-July 2 2020, Barcelona, Spain, LLNL-CONF-795158
+* Gleison Mendonca, Chunhua Liao and Fernando Magno, AutoParBench: A Unified Test Framework for OpenMP-based Parallelizers, International Conference on Supercomputing, June 29-July 2 2020, Barcelona, Spain, LLNL-CONF-795158, [pdf](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/AutoParBench-ICS2020-final.pdf)
 * Peter Pirkelbauer, Pei-Hung Li, Tristan Vanderbruggen , Chunhua Liao, XPlacer: Automatic Analysis of CPU/GPU Access Patterns, 34th IEEE International Parallel & Distributed Processing Symposium, May 18-22, 2020, LLNL-CONF-795057
 * Anjia Wang, Alok Mishra, Chunhua Liao, Yonghong Yan, and Barbara Chapman, FreeCompilerCamp.org: Training for OpenMP Compiler Development from Cloud, Volume 11, Issue 1, pp. 53 - 60, Journal of Computational Science Education, Jan. 2020 http://www.jocse.org/articles/11/1/9/
 
@@ -40,7 +40,6 @@ papers, slides, posters, etc.
 * Chunhua Liao, Pei-Hung Lin, Daniel J. Quinlan, Yue Zhao, and Xipeng Shen. 2015. Enhancing domain specific language implementations through ontology. In Proceedings of the 5th International Workshop on Domain-Specific Languages and High-Level Frameworks for High Performance Computing (WOLFHPC '15). ACM, New York, NY, USA, , Article 3 , 9 pages.   LLNL-PROC-676827  https://bitbucket.org/ChunhuaLiao/dtec-ontology-paper
 * Weidong Wang, Chunhua Liao, Liqiang Wang, Daniel J. Quinlan, Wei Lu:HBTM: A Heartbeat-based Behavior Detection Mechanism for POSIX Threads and OpenMP Applications. CoRR abs/1512.00665 (2015)
 * Pei-Hung Lin, Chunhua Liao, Daniel Quinlan and Stephen Guzik, Experiences of Using the OpenMP Accelerator Model to Port DOE Stencil Applications, 11th International Workshop on OpenMP, Oct 1-2, 2015, Aachen, Germany LLNL-CONF-665282
-* Pei-Hung Lin, Yonghong Yan, Chunhua Liao, and Dan Quinlan, Extending OpenMP to Support Multiple Accelerators, the International Journal of High Performance Computing Applications, LLNL-JRNL-669693-DRAFT, Submitted
 * Yonghong Yan, Pei-Hung Lin, Chunhua Liao, Bronis R. de Supinski, and Daniel J. Quinlan. 2015. Supporting multiple accelerators in high-level programming models. In Proceedings of the Sixth International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM '15), Pavan Balaji, Minyi Guo, and Zhiyi Huang (Eds.). ACM, New York, NY, USA, 170-180. LLNL-CONF-663596
 
 2014
@@ -63,12 +62,12 @@ papers, slides, posters, etc.
 * ANANTA TIWARI, JEFFREY K. HOLLINGSWORTH, CHUN CHEN, MARY HALL, CHUNHUA LIAO, DANIEL J. QUINLAN, JACQUELINE CHAME, Auto-tuning Full Applications: A Case Study, CCGSC (Clusters, Clouds, and Grids for Scientific Computing), 2011
 
 2010
-* Chunhua Liao, Daniel J. Quinlan, Jeremiah J. Willcock and Thomas Panas, Semantic-Aware Automatic Parallelization of Modern Applications Using High-Level Abstractions, Journal of Parallel Programming,  Volume 38, Numbers 5-6, 361-378, August 23. 2010 LLNL-JRNL-421803 [pdf](https://github.com/chunhualiao/pubdocs/blob/master/Semantic-Aware_Automatic_Parallelization_of_Modern.pdf)
+* Chunhua Liao, Daniel J. Quinlan, Jeremiah J. Willcock and Thomas Panas, Semantic-Aware Automatic Parallelization of Modern Applications Using High-Level Abstractions, Journal of Parallel Programming,  Volume 38, Numbers 5-6, 361-378, August 23. 2010 LLNL-JRNL-421803 [pdf](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/Semantic-Aware_Automatic_Parallelization_of_Modern.pdf)
 * Chunhua Liao, Daniel J. Quinlan , Thomas Panas and Bronis de Supinski, A ROSE-based OpenMP 3.0 Research Compiler Supporting Multiple Runtime Libraries, the 6th International Workshop on OpenMP (IWOMP), June 14-16, 2010, Tsukuba, Japan. LLNL-CONF-422873
 
 2009
 * Chunhua Liao, Daniel J. Quinlan, Richard Vuduc and Thomas Panas, Effective Source-to-Source Outlining to Support Whole Program Empirical Optimization, The 22nd International Workshop on Languages and Compilers for Parallel Computing (LCPC), Newark, Delaware, USA. October 8-10, 2009  LLNL-CONF-414916
-* Chunhua Liao, Daniel J. Quinlan, Jeremiah J. Willcock and Thomas Panas, Extending Automatic Parallelization to Optimize High-Level Abstractions for Multicore. In Proceedings of the 5th international Workshop on OpenMP (IWOMP): Evolving OpenMP in An Age of Extreme Parallelism (Dresden, Germany, June 03 - 05, 2009). Lecture Notes In Computer Science, vol. 5568. Springer-Verlag, Berlin, Heidelberg, 28-41. http://www.springerlink.com/content/p1u2714679327048/  LLNL-CONF-409406 [pdf](https://github.com/chunhualiao/pubdocs/blob/master/Extending_Automatic_Parallelization.pdf)
+* Chunhua Liao, Daniel J. Quinlan, Jeremiah J. Willcock and Thomas Panas, Extending Automatic Parallelization to Optimize High-Level Abstractions for Multicore. In Proceedings of the 5th international Workshop on OpenMP (IWOMP): Evolving OpenMP in An Age of Extreme Parallelism (Dresden, Germany, June 03 - 05, 2009). Lecture Notes In Computer Science, vol. 5568. Springer-Verlag, Berlin, Heidelberg, 28-41. http://www.springerlink.com/content/p1u2714679327048/  LLNL-CONF-409406 [pdf](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/Extending_Automatic_Parallelization.pdf)
 
 2008
 * Chunhua Liao, Zhenying Liu, Lei Huang and Barbara Chapman, Evaluating OpenMP on Chip MultiThreading Platforms, In Proceedings of the First International Workshop on OpenMP: OpenMP Shared Memory Parallel Programming (Eugene, Oregon USA. June 1-4, 2005). Lecture Notes In Computer Science, vol. 4315/2008. Springer-Verlag, Berlin, Heidelberg, 178-190 http://www.springerlink.com/content/5300574n4568x136 LiaoEvaluating2008.pdf
