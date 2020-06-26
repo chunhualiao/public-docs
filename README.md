@@ -63,7 +63,7 @@ papers, slides, posters, etc.
 * Chunhua Liao, Daniel J. Quinlan , Thomas Panas and Bronis de Supinski, A ROSE-based OpenMP 3.0 Research Compiler Supporting Multiple Runtime Libraries, the 6th International Workshop on OpenMP (IWOMP), June 14-16, 2010, Tsukuba, Japan. LLNL-CONF-422873 [pdf](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/A-ROSE-Based-OpenMP-3.0-Research-Compiler.pdf)
 
 2009
-* Chunhua Liao, Daniel J. Quinlan, Richard Vuduc and Thomas Panas, Effective Source-to-Source Outlining to Support Whole Program Empirical Optimization, The 22nd International Workshop on Languages and Compilers for Parallel Computing (LCPC), Newark, Delaware, USA. October 8-10, 2009  LLNL-CONF-414916
+* Chunhua Liao, Daniel J. Quinlan, Richard Vuduc and Thomas Panas, Effective Source-to-Source Outlining to Support Whole Program Empirical Optimization, The 22nd International Workshop on Languages and Compilers for Parallel Computing (LCPC), Newark, Delaware, USA. October 8-10, 2009  LLNL-CONF-414916 [pdf](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/Effective-source-to-source-outlining-LCPC2009.pdf)
 * Chunhua Liao, Daniel J. Quinlan, Jeremiah J. Willcock and Thomas Panas, Extending Automatic Parallelization to Optimize High-Level Abstractions for Multicore. In Proceedings of the 5th international Workshop on OpenMP (IWOMP): Evolving OpenMP in An Age of Extreme Parallelism (Dresden, Germany, June 03 - 05, 2009). Lecture Notes In Computer Science, vol. 5568. Springer-Verlag, Berlin, Heidelberg, 28-41. http://www.springerlink.com/content/p1u2714679327048/  LLNL-CONF-409406 [pdf](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/Extending_Automatic_Parallelization.pdf)
 
 2008
