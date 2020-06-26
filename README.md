@@ -40,7 +40,6 @@ papers, slides, posters, etc.
 * Chunhua Liao, Pei-Hung Lin, Daniel J. Quinlan, Yue Zhao, and Xipeng Shen. 2015. Enhancing domain specific language implementations through ontology. In Proceedings of the 5th International Workshop on Domain-Specific Languages and High-Level Frameworks for High Performance Computing (WOLFHPC '15). ACM, New York, NY, USA, , Article 3 , 9 pages.   LLNL-PROC-676827  https://bitbucket.org/ChunhuaLiao/dtec-ontology-paper
 * Weidong Wang, Chunhua Liao, Liqiang Wang, Daniel J. Quinlan, Wei Lu:HBTM: A Heartbeat-based Behavior Detection Mechanism for POSIX Threads and OpenMP Applications. CoRR abs/1512.00665 (2015)
 * Pei-Hung Lin, Chunhua Liao, Daniel Quinlan and Stephen Guzik, Experiences of Using the OpenMP Accelerator Model to Port DOE Stencil Applications, 11th International Workshop on OpenMP, Oct 1-2, 2015, Aachen, Germany LLNL-CONF-665282
-* Pei-Hung Lin, Yonghong Yan, Chunhua Liao, and Dan Quinlan, Extending OpenMP to Support Multiple Accelerators, the International Journal of High Performance Computing Applications, LLNL-JRNL-669693-DRAFT, Submitted
 * Yonghong Yan, Pei-Hung Lin, Chunhua Liao, Bronis R. de Supinski, and Daniel J. Quinlan. 2015. Supporting multiple accelerators in high-level programming models. In Proceedings of the Sixth International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM '15), Pavan Balaji, Minyi Guo, and Zhiyi Huang (Eds.). ACM, New York, NY, USA, 170-180. LLNL-CONF-663596
 
 2014
