@@ -3,6 +3,7 @@ papers, slides, posters, etc.
 
 
 2020
+* Keynote speech: Building Source-to-Source Tools for High-Performance Computing, C3PO’20: Compiler-assisted Correctness Checking and Performance Optimization for HPC, June 25th, 2020 [slides](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/Building%20Source-to-Source%20Tools%20for%20HPC-C3PO-final.pdf)
 * Gleison Mendonca, Chunhua Liao and Fernando Magno, AutoParBench: A Unified Test Framework for OpenMP-based Parallelizers, International Conference on Supercomputing, June 29-July 2 2020, Barcelona, Spain, LLNL-CONF-795158, [pdf](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/AutoParBench-ICS2020-final.pdf)
 * Peter Pirkelbauer, Pei-Hung Li, Tristan Vanderbruggen , Chunhua Liao, XPlacer: Automatic Analysis of CPU/GPU Access Patterns, 34th IEEE International Parallel & Distributed Processing Symposium, May 18-22, 2020, LLNL-CONF-795057 [pdf](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/Xplacer_IPDPS_2020.pdf)
 * Anjia Wang, Alok Mishra, Chunhua Liao, Yonghong Yan, and Barbara Chapman, FreeCompilerCamp.org: Training for OpenMP Compiler Development from Cloud, Volume 11, Issue 1, pp. 53 - 60, Journal of Computational Science Education, Jan. 2020 http://www.jocse.org/articles/11/1/9/
