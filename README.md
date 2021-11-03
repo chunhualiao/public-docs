@@ -11,6 +11,8 @@ papers, slides, posters, etc.
 * Zifan Nan, Hui Guan, Xipeng Shen, and Chunhua Liao. Deep NLP-based co-evolvement for synthesizing code analysis from natural language. In Proceedings of the 30th ACM SIGPLAN International Conference on Compiler Construction, pp. 141-152. 2021. (LLNL-CONF-794949).
 
 2020
+* Justin Gosselin, Anjia Wang, Peter Pirkelbauer, Chunhua Liao, Yonghong Yan, and Damian Dechev, Extending FreeCompilerCamp.org as an Online Self-Learning Platform for Compiler Development, EduHPC, SC20 Workshop
+* Gaurav Verma, Yaying Shi, Chunhua Liao, Barbara Chapman, and Yonghong Yan, Enhancing DataRaceBench for Evaluating DataRace Detection Tools, Correctness SC20 workshops
 * Keynote speech: Building Source-to-Source Tools for High-Performance Computing, C3PO’20: Compiler-assisted Correctness Checking and Performance Optimization for HPC, June 25th, 2020 [slides](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/Building%20Source-to-Source%20Tools%20for%20HPC-C3PO-final.pdf)
 * Gleison Mendonca, Chunhua Liao and Fernando Magno, AutoParBench: A Unified Test Framework for OpenMP-based Parallelizers, International Conference on Supercomputing, June 29-July 2 2020, Barcelona, Spain, LLNL-CONF-795158, [pdf](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/AutoParBench-ICS2020-final.pdf)
 * Peter Pirkelbauer, Pei-Hung Li, Tristan Vanderbruggen , Chunhua Liao, XPlacer: Automatic Analysis of CPU/GPU Access Patterns, 34th IEEE International Parallel & Distributed Processing Symposium, May 18-22, 2020, LLNL-CONF-795057 [pdf](https://github.com/chunhualiao/pubdocs/blob/master/papers-slides/Xplacer_IPDPS_2020.pdf)
