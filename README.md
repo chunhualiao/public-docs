@@ -1,6 +1,16 @@
 # pubdocs
 papers, slides, posters, etc.
 
+2022
+* Ethan Dorta, Yonghong Yan, Chunhua Liao, Generating and Analyzing Program Call Graphs using Ontology, Workshop on Programming and Performance Visualization Tools, held in conjunction with SC'22, LLNL-CONF-838827
+* Winson Chen, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao, Murali Emani, Early Experience with Transformer-Based Similarity Analysis for DataRaceBench, the Sixth International Workshop on Software Correctness for HPC Applications (Correctness 2022), LLNL-CONF-838838
+* Zifan Nan, Mithil Dave, Xipeng Shen, Chunhua Liao, Tristan Vanderbruggen, Pei-Hung Lin, Murali Emani, Interactive NLU-Powered Ontology-Based Workflow Synthesis for FAIR Support of HPC, the 2022 IEEE/ACM 9th International Workshop on HPC User Support Tools (HUST-22) held in conjunction with SC '22, LLNL-CONF-833524
+* Pei-Hung Lin, Chunhua Liao, Winson Chen, Tristan Vanderbruggen, Murali Emani and Hailu Xu, Making Machine Learning Datasets and Models FAIR for HPC: A Methodology and Case Study, 1st Workshop on Trustable and Ethical Machine Learning, During Transdisciplinary AI, Laguna Hills, CA, USA, 19-21 September 2022, LLNL-CONF-832022
+* José Wesley de Souza Magalhães,  Chunhua Liao , Fernando Magno Quintão Pereira, Automatic Inspection of Program State in an Uncooperative Environment, Software: Practice and Experience, 2022, LLNL-JRNL-826460
+* Hailu Xu, Pei-Hung Lin, Murali Emani, Liting Hu, and Chunhua Liao. "XUnified: A Framework for Guiding Optimal Use of GPU Unified Memory." IEEE Access 10 (2022): 82614-82625., LLNL-CONF-798297
+* Patrick Flynn, Tristan Vanderbruggen, Chunhua Liao, Pei-Hung Lin, Murali Emani and Xipeng Shen, Finding Reusable Machine Learning Components to Build Programming Language Processing Pipelines, 2nd International Workshop on Software Architecture and Machine Learning (16th European Conference on Software Architecture (ECSA)), 2022, https://arxiv.org/abs/2208.05596 , LLNL-CONF-837414
+* Giorgis Georgakoudis, Thomas Scogland, Chunhua Liao and Bronis de Supinski, Extending OpenMP to Support Automated Function Specialization Across Translation Units, IWOMP 2022, Chattanooga, TN, Sept. 27-30, 2022, LLNL-CONF-837685
+
 2021
 * Chunhua Liao, Reinventing the Ecosystem to Improve HPC Software, Workshop on the Science of Scientific-Software Development and Use, Sponsored by the U.S. Department of Energy, Office of Advanced Scientific Computing Research, December 13 - 15, 2021,  12 - 5 PM Eastern Time [pdf](https://github.com/chunhualiao/public-docs/raw/master/papers-slides/PositionPaper-Reinventing%20the%20Ecosystem%20to%20Improve%20HPC%20Software-2021.pdf)
 * Chunhua Liao and Peter Pirkelbauer, Automated, Extensible Correctness Diagnostics for Scientific Computing, Workshop on the Science of Scientific-Software Development and Use, Sponsored by the U.S. Department of Energy, Office of Advanced Scientific Computing Research, December 13 - 15, 2021,  12 - 5 PM Eastern Time [pdf](https://github.com/chunhualiao/public-docs/blob/master/papers-slides/PositonPaper-Correctness%20Diagnostics%20for%20Scientific%20Computing-2021.pdf)
