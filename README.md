@@ -4,7 +4,7 @@ papers, slides, posters, etc.
 2023
 * Le Chen, Xianzhong Ding, Murali Emani, Tristan Vanderbruggen, Pei-Hung Lin, and Chunhua Liao. "Data Race Detection Using Large Language Models." In Proceedings of the SC'23 Workshops (Correctness) of The International Conference on High Performance Computing, Network, Storage, and Analysis, pp. 215-223. 2023 https://arxiv.org/abs/2308.07505
 * Xianzhong Ding, Le Chen, Murali Emani, Chunhua Liao, Pei-Hung Lin, Tristan Vanderbruggen, Zhen Xie, Alberto Cerpa, and Wan Du, HPC-GPT: Integrating Large Language Model for High-Performance Computing, Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis, November 2023, Pages 951–960 https://dl.acm.org/doi/10.1145/3624062.3624172
-* Bin Lei, Caiwen Ding, Le Chen, Pei-Hung Lin, and Chunhua Liao. "Creating a Dataset Supporting Translation Between OpenMP Fortran and C++ Code.", IEEE High Performance Extreme Computing 2023, https://arxiv.org/abs/2307.07686
+* Bin Lei, Caiwen Ding, Le Chen, Pei-Hung Lin, and Chunhua Liao. "Creating a Dataset Supporting Translation Between OpenMP Fortran and C++ Code.", IEEE High Performance Extreme Computing, Sept.25-29, 2023, https://arxiv.org/abs/2307.07686 (Outstanding Student Paper)
 * Le Chen, Pei-Hung Lin, Tristan Vanderbruggen, Chunhua Liao, Murali Emani, and Bronis de Supinski, LM4HPC: Towards Effective Language Model Application in High-Performance Computing, IWOMP 2023 LLNL-CONF-849438 https://arxiv.org/abs/2306.14979
 
 2022
