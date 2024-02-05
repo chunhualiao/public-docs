@@ -1,7 +1,8 @@
 # pubdocs
 papers, slides, posters, etc.
 
-I try to follow the ACM Reference Format
+I try to follow the ACM Reference Format (slightly adjusted to move year to the end)
+
 2023
 * Le Chen, Xianzhong Ding, Murali Emani, Tristan Vanderbruggen, Pei-Hung Lin, and Chunhua Liao. Data Race Detection Using Large Language Models. In Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023), November 12--17, 2023, Denver, CO, USA. ACM, New York, NY, USA 9 Pages. https://doi.org/10.1145/3624062.3624088 https://arxiv.org/abs/2308.07505
 * Xianzhong Ding, Le Chen, Murali Emani, Chunhua Liao, Pei-Hung Lin, Tristan Vanderbruggen, Zhen Xie, Alberto Cerpa, and Wan Du. HPC-GPT: Integrating Large Language Model for High-Performance Computing. In Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023), November 12--17, 2023, Denver, CO, USA. Association for Computing Machinery, New York, NY, USA, 951–960. https://doi.org/10.1145/3624062.3624172
