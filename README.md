@@ -3,6 +3,14 @@ papers, slides, posters, etc.
 
 I try to follow the ACM Reference Format (slightly adjusted to move year to the end)
 
+2024
+* Le Chen, Bin Lei, Dunzhi Zhou, Pei-Hung Lin, Chunhua Liao, Caiwen Ding, Ali Jannesari,Fortran2CPP: Automating Fortran-to-C++ Migration using LLMs via Multi-Turn Dialogue and Dual-Agent Integration, https://arxiv.org/abs/2412.19770, 27 Dec 2024
+* Xingyao Yi, Anjia Wang, Yonghong Yan, Chunhua Liao, Developing an Interactive OpenMP Programming Book with Large Language Models, International Workshop on OpenMP, 2024
+* Naveed Sekender, Pei-Hung Lin, Chunhua Liao, Finding Equivalent OpenMP Fortran and C/C++ Code Snippets Using Large Language Models, International Workshop on OpenMP, 2024
+* Chunhua Liao, Xipeng Shen, Murali Emani, Tristan Vanderbruggen, Pei-Hung Lin, HPC-FAIR: A Framework Managing Data and AI Models for Analyzing and Optimizing Scientific Applications, Technical Report, LLNL 2024
+* Peter Pirkelbauer, Chunhua Liao, Pei-Hung Lin, David Wright, Charles Reynolds, Daniel Quinlan, Supporting Ada in the ROSE compiler, ACM SIGAda Ada Letters, 2024
+* Alnis Murtovi, Giorgis Georgakoudis, Konstantinos Parasyris, Chunhua Liao, Ignacio Laguna, Bernhard Steffen, Enhancing Performance Through Control-Flow Unmerging and Loop Unrolling on GPUs, 2024 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)
+
 2023
 * Le Chen, Xianzhong Ding, Murali Emani, Tristan Vanderbruggen, Pei-Hung Lin, and Chunhua Liao. Data Race Detection Using Large Language Models. In Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023), November 12--17, 2023, Denver, CO, USA. ACM, New York, NY, USA 9 Pages. https://doi.org/10.1145/3624062.3624088 https://arxiv.org/abs/2308.07505
 * Xianzhong Ding, Le Chen, Murali Emani, Chunhua Liao, Pei-Hung Lin, Tristan Vanderbruggen, Zhen Xie, Alberto Cerpa, and Wan Du. HPC-GPT: Integrating Large Language Model for High-Performance Computing. In Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023), November 12--17, 2023, Denver, CO, USA. Association for Computing Machinery, New York, NY, USA, 951–960. https://arxiv.org/abs/2311.12833 (LLNL-CONF-853156)
