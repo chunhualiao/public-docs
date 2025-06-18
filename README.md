@@ -3,6 +3,10 @@ papers, slides, posters, etc.
 
 I try to follow the ACM Reference Format (slightly adjusted to move year to the end)
 
+2025
+
+* Xiangwei Wang, Xinning Hui, Chunhua Liao, and Xipeng Shen. Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations. The 46th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2025), Seoul, South Korea, June 16–20, 2025. LLNL-CONF-868729
+
 2024
 * Le Chen, Bin Lei, Dunzhi Zhou, Pei-Hung Lin, Chunhua Liao, Caiwen Ding, Ali Jannesari,Fortran2CPP: Automating Fortran-to-C++ Migration using LLMs via Multi-Turn Dialogue and Dual-Agent Integration, https://arxiv.org/abs/2412.19770, 27 Dec 2024
 * Xingyao Yi, Anjia Wang, Yonghong Yan, Chunhua Liao, Developing an Interactive OpenMP Programming Book with Large Language Models, International Workshop on OpenMP, 2024
