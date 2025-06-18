@@ -5,6 +5,7 @@ I try to follow the ACM Reference Format (slightly adjusted to move year to the 
 
 2025
 * Patrick Serrano, Luwen Huangfu, Chunhua Liao, Dongqing Lin, Kai Williams, Jaden Perleoni, and Thomas Brettin. LLM-Driven Document Clustering: Improving Real-time Security Intelligence Extraction and Threat Analysis. The 2025 IEEE International Conference on Intelligence and Security Informatics (ISI), July 12–13, 2025, Hong Kong, China. LLNL-CONF-2001933
+* Peter Pirkelbauer and Chunhua Liao. CompilerGPT: Leveraging Large Language Models for Analyzing and Acting on Compiler Optimization Reports. Presented at the Fifth Workshop on Compiler-assisted Correctness Checking and Performance Optimization for HPC (C3PO-HPC), held in conjunction with ISC 2025, June 10–13, Hamburg, Germany. LLNL-CONF-2001471
 * Xiangwei Wang, Xinning Hui, Chunhua Liao, and Xipeng Shen. Reductive Analysis with Compiler-Guided Large Language Models for Input-Centric Code Optimizations. The 46th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2025), Seoul, South Korea, June 16–20, 2025. LLNL-CONF-868729
 
 2024
