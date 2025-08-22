@@ -1,7 +1,7 @@
 # pubdocs
 papers, slides, posters, etc.
 
-I try to follow the ACM Reference Format (slightly adjusted to move year to the end)
+I try to follow the ACM Reference Format (slightly adjusted to move year to the end). It’s a custom, resume-friendly citation modeled most closely on Chicago Notes & Bibliography—but adapted to put given names first. 
 
 2025
 * Pinhuan Wang, Zhiqiu Xia, Chunhua Liao, Feiyi Wang, and Hang Liu. “REALM: Recursive Relevance Modeling for LLM-based Document Re-Ranking.” Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), Suzhou, China, November 5–9, 2025. LLNL-CONF-2010514 (Accepted).
