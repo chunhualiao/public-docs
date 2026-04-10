@@ -6,8 +6,8 @@ I try to follow the ACM Reference Format (slightly adjusted to move year to the 
 2026
 * Le Chen, Nuo Xu, Winson Chen, Bin Lei, Pei-Hung Lin, Dunzhi Zhou, Rajeev Thakur, Caiwen Ding, Ali Jannesari, Chunhua Liao, Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation, ACL 2026 (Accepted) 
 * Dongqing Lin, Luwen Huangfu, Chunhua Liao, Brian Chung, Akul Gowda, Thomas Brettin, Malicious Attack Challenges and Mitigation Strategies for Large Code Models: A Survey on Data Poisoning, Adversarial Attacks, and Backdoor Vulnerabilities, The 59th Hawaii International Conference on System Sciences (HICSS) , Hyatt Regency Maui, January 6-9, 2026 LLNL-CONF-2011021.
-2025
 
+2025
 * Zhiqiu Xia, Lang Zhu, Bingzhe Li, Feng Chen, Qiannan Li, Chunhua Liao, Feiyi Wang, and Hang Liu, Analyzing 16,193 LLM Papers for Fun and Profits, 2025 IEEE Cloud Summit (LLNL-CONF-2006445)
 * Pinhuan Wang, Zhiqiu Xia, Chunhua Liao, Feiyi Wang, and Hang Liu. “REALM: Recursive Relevance Modeling for LLM-based Document Re-Ranking.” Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), Suzhou, China, November 5–9, 2025. LLNL-CONF-2010514.
 * Patrick Serrano, Luwen Huangfu, Chunhua Liao, Dongqing Lin, Kai Williams, Jaden Perleoni, and Thomas Brettin. LLM-Driven Document Clustering: Improving Real-time Security Intelligence Extraction and Threat Analysis. The 2025 IEEE International Conference on Intelligence and Security Informatics (ISI), July 12–13, 2025, Hong Kong, China. LLNL-CONF-2001933 [pdf](https://github.com/chunhualiao/public-docs/blob/master/papers-slides/2025_07_IEEE_ISI_LLM_Clustering.pdf)
