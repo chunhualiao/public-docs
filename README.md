@@ -4,7 +4,7 @@ papers, slides, posters, etc.
 I try to follow the ACM Reference Format (slightly adjusted to move year to the end). It’s a custom, resume-friendly citation modeled most closely on Chicago Notes & Bibliography—but adapted to put given names first. 
 
 2026
-* Le Chen, Nuo Xu, Winson Chen, Bin Lei, Pei-Hung Lin, Dunzhi Zhou, Rajeev Thakur, Caiwen Ding, Ali Jannesari, Chunhua Liao, Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation, ACL 2026 (Accepted) 
+* Le Chen, Nuo Xu, Winson Chen, Bin Lei, Pei-Hung Lin, Dunzhi Zhou, Rajeev Thakur, Caiwen Ding, Ali Jannesari, Chunhua Liao, Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation, The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), San Diego, California, from July 2 - 7, 2026. (Accepted) 
 * Dongqing Lin, Luwen Huangfu, Chunhua Liao, Brian Chung, Akul Gowda, Thomas Brettin, Malicious Attack Challenges and Mitigation Strategies for Large Code Models: A Survey on Data Poisoning, Adversarial Attacks, and Backdoor Vulnerabilities, The 59th Hawaii International Conference on System Sciences (HICSS) , Hyatt Regency Maui, January 6-9, 2026 LLNL-CONF-2011021.
 
 2025
